@@ -1,6 +1,6 @@
 ### About Me 😎
 
-- An **undergraduate student** at University of California, Santa Cruz
+- An **graduate student** at University of California, Santa Cruz
 - Working as a part-time **web engineer** at [GNEX](https://github.com/gnexltd) and [n1nc](https://n.inc/)
 - My interests are Web Frontend, React, Angular, Vue, TypeScript, Node.js, iOS, Swift, etc.
 
