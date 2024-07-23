@@ -1,7 +1,6 @@
 ### About Me 😎
 
-- A **graduate student** at University of California, Santa Cruz
-- My interests are Web Frontend, React, Angular, Vue, TypeScript, Node.js, iOS, Swift, etc.
+- I'm a Ph.D. student at UC San Diego
 
 <!--
 **shumbo/shumbo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
